@@ -1,5 +1,5 @@
-Idea is to create as detailed image as possible with visible 1 m elevation differences. 
-The scanning data requires some enhancements to look nicer. In this case ground is spread up to 3 px (m) to each direction. 
+The idea is to create as detailed map as possible with visible elevation differences from lidar data. The program needs ordered lidar files with year and saves 3x3 km png maps and combined larger image.
+In addition, data contains vegetation points from which a extrapoletad vegetation height map is created. 
 
-Laser scan data is from Maanmittauslaitos, scanned in 2022 and downloaded in 2023 from https://asiointi.maanmittauslaitos.fi/karttapaikka/tiedostopalvelu/laserkeilausaineisto_05 
+Laser scan data is from Maanmittauslaitos, scanned in 2012 and 2022 and downloaded in 2023 from https://asiointi.maanmittauslaitos.fi/karttapaikka/tiedostopalvelu/laserkeilausaineisto_05 
 
